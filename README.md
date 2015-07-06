@@ -1,2 +1,1 @@
-# wiki
-wiki demo
+火币API请参考本项目的Wiki文档
